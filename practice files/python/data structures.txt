@@ -1,0 +1,53 @@
+List in python : hetiroginious : assigning multiple data type values in a single list
+
+--> value defined in Square backets in lists
+
+# creating a list of numbers
+numbers = [10, 20, 30, 40, 50]
+
+# printing the list
+print("Numbers list:", numbers)
+
+# accessing elements by index
+print("First element:", numbers[0])   # 10
+print("Last element:", numbers[-1])  # 50
+
+# adding a new element
+numbers.append(60)
+print("After append:", numbers)
+
+# removing an element
+numbers.remove(30)
+print("After remove:", numbers)
+
+# iterating through the list
+for num in numbers:
+    print("Element:", num)
+
+
+-----------------------------------------------------
+
+--> Diff between List and Tuple:
+
+-> list is changable (Mutable)
+-> Tuple is unchagable (Immutable)
+
+
+------------------------------------------------------
+
+--> Dictionary : used to hold data (used {})
+
+--> but it is in Key:value format
+
+-----------------------------------------------------
+
+--> set : mutable , no duplicate allowed , no index allowed
+
+-> and set is un-ordered
+
+-> automaticalled removes duplicates and keep values in order automatically
+
+-> Indexing is not supported
+
+
+

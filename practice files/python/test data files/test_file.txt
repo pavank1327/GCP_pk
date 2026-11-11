@@ -1,0 +1,14 @@
+Hello Pavan,
+This is a sample text file.
+You can use it to test reading and writing in Python.
+Line 4: Python makes file handling easy.
+Line 5: End of file.
+Hello Pavan adding new data,
+This is a sample text written using Python.
+File writing successful!Hello Pavan adding new data,
+This is a sample text written using Python.
+File writing successful!Hello Pavan adding new data,
+This is a sample text written using Python.
+File writing successful!Hello Pavan adding new data,
+This is a sample text written using Python.
+File writing successful!

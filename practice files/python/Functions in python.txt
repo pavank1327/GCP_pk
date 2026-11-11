@@ -1,0 +1,20 @@
+--> Functions in python ( in jawa called as methods)
+
+--> block of code that can performs a specific task 
+
+--> can be used when ever it is needed and called
+
+Syntax:
+
+def function_name(parameters):
+    """
+    Optional docstring: explains what the function does
+    """
+    # function body
+    # perform operations
+    return result   # optional
+
+
+----------------------------------------------------------------
+
+--> positional argument -- check it once with example
